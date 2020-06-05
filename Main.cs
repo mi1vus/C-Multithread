@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Multithreading
 {
     1
+    3 бранч
     class Program
     {
         static List<int> input = new List<int> { 5, 2, 3, 7, 95, 4, 85, 4, 7, 45, 4, 84, 58, 41, 45, 4, 58, 1, 45, 47, 5, 4, 58, 1, 564, 5, 4, 5, 4, 5, 45, 5, 5, 12, 52, 14, 5, 14, 51, 54, 453 };
